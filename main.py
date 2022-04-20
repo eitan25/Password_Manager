@@ -62,7 +62,7 @@ def save_password():
                 # Reset UI fields
                 web_input.delete(0, END)
                 user_input.delete(0, END)
-                user_input.insert(0, 'eitan9994@gmail.com')
+                user_input.insert(0, 'Your Username')
                 password_input.delete(0, END)
 
 
