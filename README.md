@@ -26,3 +26,5 @@ By doing so, you will get a strong password combined with upper and lower case, 
 The new password will be copied automatically,
 
 And you will be able to simply paste it where you need it.
+
+You can see the GUI screen shot among the files.
